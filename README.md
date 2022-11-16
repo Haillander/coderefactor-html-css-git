@@ -26,7 +26,7 @@ coderefactor-html-css-git
 
 * Live site
 
-https://sio.github.io/sjb-w1homework/
+https://haillander.github.io/coderefactor-html-css-git/
 
 * GitHub enviroment
 
