@@ -38,5 +38,6 @@ https://github.com/Haillander/coderefactor-html-css-git
 
 * Screenshots
 
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/html-css-git-homework-demo%20(1).png)
 
 
