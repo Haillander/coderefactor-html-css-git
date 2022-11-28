@@ -5,6 +5,9 @@
 }
 body {
     background-color: #d9dcd6;
+
+    
+    /*TOP of the page*/
 }
 header {
     padding: 20px;
@@ -46,6 +49,8 @@ a {
 }
 
 
+/*Main content*/
+
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -72,6 +77,10 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+
+
+/*Aside Elements*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,6 +104,9 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
+
+
+/*Footer*/
 footer {
     padding: 30px;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
